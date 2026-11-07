@@ -4,5 +4,4 @@
 class ToDoList {
   std::string task;
   std::cin >> task;
-  return 0;
 }
