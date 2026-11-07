@@ -4,5 +4,4 @@
 class ToDoList {
   private:
     std::string task;
-    std::cin >> task;
 }
