@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int main() {
+class ToDoList {
   std::string task;
   std::cin >> task;
   return 0;
