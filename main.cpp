@@ -3,6 +3,6 @@
 
 class ToDoList {
   private:
-  std::string task;
-  std::cin >> task;
+    std::string task;
+    std::cin >> task;
 }
