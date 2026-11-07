@@ -4,4 +4,5 @@
 class ToDoList {
   private:
     std::string task;
+  public:
 }
