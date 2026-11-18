@@ -7,4 +7,5 @@ class ToDoList {
     std::string task;
     std::cin >> task;
   public:
+    std::string<vector> list;
 }
