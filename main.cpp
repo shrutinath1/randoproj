@@ -8,4 +8,5 @@ class ToDoList {
     std::cin >> task;
   public:
     std::string<vector> list;
+    for ()
 }
