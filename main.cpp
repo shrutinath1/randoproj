@@ -8,7 +8,7 @@ class ToDoList {
     std::cin >> task;
   public:
     std::string<vector> list;
-    for () {
+    for (int i = 0;  i < count; i++) {
 
     }
 }
